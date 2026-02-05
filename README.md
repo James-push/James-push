@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Solo+Developer;Mobile+%26+Backend+Engineer;Flutter+%7C+Android+%7C+Web;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Solo+Developer;Mobile+%26+Web;Flutter+%7C+Android+%7C+Web;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=James-push&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
