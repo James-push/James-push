@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Solo+Developer;Mobile+%26+Web;Flutter+%7C+Android+%7C+Web;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Solo+Developer;Mobile+%26+Web;Flutter+%7C+Android+%7C+Web;Automation+%26+Cloud;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 - 👨‍💻 Solo developer building **full-stack & mobile applications**
 - 📱 Mobile: **Flutter & Android**
 - 🌐 Web: **Next.js, Tailwind, Firebase**
+- 🤖 Automation: **Python, n8n, Power Automate**
 - 🐧 Comfortable with **Linux, Bash & Docker**
 - 🔥 Focused on **clean architecture & scalability**
 - 🚀 Turning ideas into real-world solutions
@@ -31,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
@@ -39,6 +41,13 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+</p>
+
+### 🤖 Automation & Cloud
+<p>
+  <img src="https://cdn.simpleicons.org/n8n/EF5A3C" width="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftpowerautomate/0066FF" width="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" width="40"/>
 </p>
 
 ### ⚙️ Backend, DevOps & Tools
@@ -63,17 +72,17 @@
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=James-push&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=James-push&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-push&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -91,7 +100,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:jssjmssantos.gmail.com">
+  <a href="mailto:jssjmssantos@gmail.com">
     📫
   </a>
 </p>
