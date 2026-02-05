@@ -80,18 +80,18 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=James-push&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/James-push">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jssjmssantos.gmail.com">
     📫
   </a>
 </p>
